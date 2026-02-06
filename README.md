@@ -1,4 +1,4 @@
-🔐 ## **Cipher App (Python)**
+🔐 **Cipher App (Python)**
 
 A desktop cipher application built in Python that allows users to encrypt and decrypt text using classical ciphers through a simple graphical interface.
 This project is intended as both a learning tool (cryptography + GUI development) and a functional app for experimenting with ciphers.
